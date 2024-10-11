@@ -1,1 +1,1 @@
-# Gen-AI
+# TAMIDS Gen-AI workshop
